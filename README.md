@@ -115,7 +115,7 @@ The old version is archived as
 
 Updating to new FIT SDK versions
 --------------------------------
-- Download the latest [ANT FIT SDK](http://www.thisisant.com/resources/fit).
+- Download the latest [ANT FIT SDK](https://developer.garmin.com/fit/download/).
 - Update the profile:
 ```
 python3 scripts/generate_profile.py /path/to/fit_sdk.zip fitparse/profile.py
