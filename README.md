@@ -66,7 +66,7 @@ optional arguments:
   --ignore-crc          Some devices can write invalid crc's, ignore these.
 ```
 
-See the documentation for more: http://dtcooper.github.com/python-fitparse
+See the documentation for more: http://dtcooper.github.io/python-fitparse
 
 
 Major Changes From Original Version
@@ -80,7 +80,7 @@ The old version is archived as
     and internal parts. (Still unstable and partially complete.)
 
   * Proper documentation!
-    [Available here](http://dtcooper.github.com/python-fitparse/).
+    [Available here](https://dtcooper.github.io/python-fitparse/).
 
   * Unit tests and example programs.
 
